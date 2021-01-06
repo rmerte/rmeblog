@@ -1,0 +1,197 @@
+.logoarea {
+	
+	
+	
+}
+
+
+.logoheader {
+ margin-left:30px;
+ height:100px;
+}
+
+
+.controlborder {
+	/* border-left:1px solid gray; */
+width:90%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+	
+}
+
+
+.kategorialan {
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+	/* border:1px solid red; */
+-webkit-box-shadow: -5px 4px 21px -8px rgba(0,0,0,0.75);
+-moz-box-shadow: -5px 4px 21px -8px rgba(0,0,0,0.75);
+box-shadow: -5px 4px 21px -8px rgba(0,0,0,0.75);
+}
+
+.icerikresim img{
+	max-height:150px;
+	max-width:150px;	
+	
+	
+}
+.icerikresim {
+	-webkit-box-shadow: -3px 2px 7px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: -3px 2px 7px -1px rgba(0,0,0,0.75);
+box-shadow: -3px 2px 7px -1px rgba(0,0,0,0.75);
+padding:15px;
+display:block;
+position:relative;
+/* border-bottom:1px solid gray; */
+	
+}
+
+.baslik {
+	font-size:20px;
+	margin-left:10px;
+	color:#535c6b;
+	display:inline-block;
+
+	
+}
+.imghizala {
+	
+display:inline-block;
+	
+}
+
+.kategoribaslik {
+	font-size:15px;
+	text-align:center;
+	border-bottom:1px solid gray;
+	padding:5px;
+	
+}
+.kategori {
+	
+	color:black;
+	text-align:center;
+	font-size:15px;
+	padding-top:3px;
+	padding-bottom:3px;
+
+	
+}
+
+.footerstil {
+
+margin-top:15px;
+color:white;
+	
+}
+.footertext {
+	
+	color:white;
+}
+.footertext:hover {
+	
+	color:white;
+	
+}
+
+
+.loginbox {
+	
+	width:400px;
+	/* height:700px; */
+	margin:auto;
+	margin-top:100px;
+	margin-bottom:100px;
+		-webkit-box-shadow: -3px 2px 7px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: -3px 2px 7px -1px rgba(0,0,0,0.75);
+box-shadow: -3px 2px 7px -1px rgba(0,0,0,0.75);
+
+}
+
+.loginbuttoncenter {
+	
+	margin-left:155px;
+	margin-bottom:20px;
+}
+
+.loginbox label  {
+	margin-top:10px;
+	margin-left:30px;
+
+}
+
+.loginbox input  {
+	margin:auto;
+	width: 90%;
+	
+}
+
+
+
+.loginbaslik {
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10px;
+	font-size:25px;
+	text-align:center;
+	
+	
+}
+
+.uyari {
+	
+	min-height:50px;
+	text-align:center;
+	font-size:25px;
+	color:white;
+	background-color:#dc3545;
+	
+}
+
+.basarili {
+	
+		height:50px;
+	text-align:center;
+	font-size:25px;
+	color:white;
+	background-color:#28a745;
+	
+}
+
+.editoralani {
+	
+	margin-top:50px;
+	
+	
+}
+
+.editoralani input{
+	
+	margin-bottom:10px;
+}
+
+.editoralani select{
+	
+	margin-bottom:10px;
+}
+
+
+
+
+.edtbutton {
+	
+	margin-top :30px;
+margin-left:auto;
+margin-right:auto;
+
+	display:block;
+}
+
+.dropdownfix {
+	
+	margin-right:80px;
+	
+}
