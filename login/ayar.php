@@ -1,11 +1,11 @@
 <?php
 	
-	$host 		= "sql113.epizy.com";
-	$dbname 	= "epiz_26155039_projekontrol";
+	$host 		= "hostadi";
+	$dbname 	= "dbadi";
 	$charset 	= "utf8";
-	$root 		= "epiz_26155039";
-	$password 	= "xZDDmbgr4NN";
-	$sitebase   = "/deneme";
+	$root 		= "dbkullaniciadi";
+	$password 	= "dbsifre";
+	$sitebase   = "https://websiteadresiniz/blog/klasoru"; // sonuna "/" işareti koymayınız.
 
 	try{
 		$db = new PDO("mysql:host=$host;dbname=$dbname;charset=$charset;", $root, $password);
